@@ -1,0 +1,1 @@
+During this lab, I learned how to use Git to track files, commit changes, and push them to GitHub. I also learned how to create and work with branches safely. Creating files like index.html and LICENSE helped me practice file tracking. Deleting files and merging branches showed me how Git handles changes and conflicts.
